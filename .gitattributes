@@ -1,0 +1,14 @@
+#Rodar comando: git add --renormalize .
+#https://gitlab.com/gitlab-org/gitlab/-/issues/34874
+*	text=auto
+*.dpr	text eol=crlf working-tree-encoding=windows-1252
+*.dproj	text eol=crlf working-tree-encoding=windows-1252
+*.pas	text eol=crlf working-tree-encoding=windows-1252
+*.dfm	text eol=crlf working-tree-encoding=windows-1252
+*.bat	text eol=crlf working-tree-encoding=cp850
+*.cam	text eol=crlf working-tree-encoding=windows-1252
+*.csv	text eol=crlf working-tree-encoding=windows-1252
+*.ini	text eol=crlf working-tree-encoding=windows-1252
+*.rgi	text eol=crlf working-tree-encoding=windows-1252
+*.sip	text eol=crlf working-tree-encoding=windows-1252
+*.txt	text eol=crlf working-tree-encoding=windows-1252
